@@ -26,3 +26,7 @@ CLI options:
 | `--margins TOP RIGHT BOTTOM LEFT` | Page margins in millimetres. Defaults to `14.1 14.1 14.1 14.1`. |
 | `--output PATH` | Path for output PDF. If omitted, the filename is chosen from the layout. |
 | `--tag TEXT` | Footer tagline text printed by LilyPond. If omitted, no tagline is shown. |
+
+---
+
+This project was created with Codex. Collaboration rules and project preferences are documented in [AGENTS.md](AGENTS.md).
