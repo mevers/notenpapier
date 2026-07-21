@@ -29,4 +29,4 @@ CLI options:
 
 ---
 
-This project was created with Codex. Collaboration rules and project preferences are documented in [AGENTS.md](AGENTS.md).
+Created by [Maurits Evers](https://github.com/mevers) with help from Codex. Collaboration rules and project preferences are documented in [AGENTS.md](AGENTS.md).

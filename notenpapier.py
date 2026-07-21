@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-import argparse, os  # noqa: E401
+# Author: Maurits Evers
+# Version: 0.1.0
+import argparse, os
 
 
 p = argparse.ArgumentParser(description="Generate blank music paper.")
